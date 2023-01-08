@@ -47,7 +47,8 @@ app.*.map.json
 /android/app/build/
 
 # Visual Studio Config
-.vscode
+.vscode/
+.dart_tool/
 
 # Credentials
 android/app/google-services.json

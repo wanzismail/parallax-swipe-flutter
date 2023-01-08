@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jds/Development/Projects/FLUTTER/parallax-swipe/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/jds/Desktop/parallax-swipe-flutter copy/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/jds/Development/Projects/FLUTTER/parallax-swipe/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/jds/Desktop/parallax-swipe-flutter copy/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
