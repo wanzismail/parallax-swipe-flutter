@@ -1,0 +1,4 @@
+#Tue Jan 10 23:46:35 WIB 2023
+base.0=/Users/jds/Development/Projects/FLUTTER/parallax-swipe/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
